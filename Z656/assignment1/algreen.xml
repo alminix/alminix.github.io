@@ -1,1 +1,13 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<Music>
+  <titlestatement>
+    <title type= "artist name">Al Green</title>
+    <title type="album name">Al Green's Greatest Hits</title>
+  </titlestatement>
+  <tracks>
+        <title style="all caps" >TIRED OF BEING ALONE</title>
+        <
+          <header style="all caps" >CALL ME (COME BACK HOME)<
+          <track number= "1" song title= "Tired Of Being Alone" composer= "A. Green" music organization= "BMI">
+          <track number= "2" song title= "Call Me (Come Back Home)" composer= "A. Green" music organization= "BMI">
