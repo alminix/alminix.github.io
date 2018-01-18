@@ -3,7 +3,7 @@
 <Music>
   <rightbanner>
     <header style="all caps">AL GREEN'S GREATEST HITS</header>
-    //Not sure how to articulate that the banner is horizontal and on the right side//
+    //Not sure how to articulate that the banner is horizontal and on the right side (ascending)//
     <banner logo="1" >QQCC</banner>
     <banner logo="2" >DVD AUDIO</banner> 
     <banner logo="3" >MLP LOSSLESS</banner>
@@ -19,7 +19,7 @@
     <banner logo="5" >DVD AUDIO</banner>
     <banner logo="6" >QQCC</banner>
     <header style="all caps">AL GREEN'S GREATEST HITS</header>
-    //Is logo the right way to signify that it's an image? Or is that marked a different way?//
+    //Is logo the right way to signify that it's an image? Or is that marked a different way? (desending)//
   </leftbanner>
   </titlestatement>
   <tracks>
