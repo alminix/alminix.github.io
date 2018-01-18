@@ -1,13 +1,82 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <Music>
-  <titlestatement>
-    <title type= "artist name">Al Green</title>
-    <title type="album name">Al Green's Greatest Hits</title>
+  <rightbanner>
+    <header style="all caps">AL GREEN'S GREATEST HITS</header>
+    //Not sure how to articulate that the banner is horizontal and on the right side//
+    <banner logo="1" >QQCC</banner>
+    <banner logo="2" >DVD AUDIO</banner> 
+    <banner logo="3" >MLP LOSSLESS</banner>
+    <banner logo="4" >DOLBY DIGITAL</banner>
+    <banner logo="5" >dts Digital Surround|9824</banner>
+    <banner logo="6" >DVD VIDEO</banner>
+  </rightbanner>
+  <leftbanner>
+    <banner logo="1" >DVD VIDEO</banner>
+    <banner logo="2" >dts Digital Surround|9824</banner>
+    <banner logo="3" >DOLBY DIGITAL</banner>
+    <banner logo="4" >MLP LOSSLESS</banner>
+    <banner logo="5" >DVD AUDIO</banner>
+    <banner logo="6" >QQCC</banner>
+    <header style="all caps">AL GREEN'S GREATEST HITS</header>
+    //Is logo the right way to signify that it's an image? Or is that marked a different way?//
+  </leftbanner>
   </titlestatement>
   <tracks>
         <title style="all caps" >TIRED OF BEING ALONE</title>
-        <
-          <header style="all caps" >CALL ME (COME BACK HOME)<
-          <track number= "1" song title= "Tired Of Being Alone" composer= "A. Green" music organization= "BMI">
-          <track number= "2" song title= "Call Me (Come Back Home)" composer= "A. Green" music organization= "BMI">
+          <title type="composer(s)" >(A. Green)</title>
+          <metacontent style="all caps" >BMI</metacontent>
+        <title style="all caps" >CALL ME (COME BACK HOME)</title>
+          <title type="composer(s)" >(A. Green; W. Mitchell; AJackson)</title>
+          <metacontent style="all caps" >BMI</metacontent> 
+        <title style="all caps" >I'M STILL IN LOVE WITH YOU</title>
+          <title type="composer(s)" >(A. Green; W. Mitchell; AJackson)</title>
+          <metacontent style="all caps" >BMI</metacontent>
+        <title style="all caps" >HERE I AM (COME AND TAKE ME)</title>
+          <title type="composer(s)" >(A. Green; M. Hodges)</title>
+          <metacontent style="all caps" >BMI</metacontent>
+        <title style="all caps" >HOW CAN YOU MEND A BROKEN HEART</title>
+          <title type="composer(s)" >(B. Gibb; R. Gibb)</title>
+          <metacontent style="all caps" >BMI</metacontent>
+        <title style="all caps" >LET'S STAY TOGETHER</title>
+          <title type="composer(s)" >(A. Green; W. Mitchell; AJackson)</title>
+          <metacontent style="all caps" >BMI</metacontent>
+        <title style="all caps" >I CAN'T GET NEXT TO YOU</title>
+          <title type="composer(s)" >(Whitfield; Strong)</title>
+          <metacontent style="all caps" >ASCAP</metacontent>
+        <title style="all caps" >YOU OUGHT TO BE WITH ME</title>
+          <title type="composer(s)" >(A. Green; W. Mitchell; AJackson)</title>
+          <metacontent style="all caps" >BMI</metacontent>
+        <title style="all caps" >LOOK WHAT YOU DONE FOR ME</title>
+          <title type="composer(s)" >(A. Green; W. Mitchell; AJackson)</title>
+          <metacontent style="all caps" >BMI</metacontent>
+        <title style="all caps" >LET'S GET MARRIED</title>
+          <title type="composer(s)" >(A. Green)</title>
+          <metacontent style="all caps" >BMI</metacontent>
+  </tracks>
+  <musicmetadata>
+    <title type="all caps" >PRODUCERS:</title>
+      <name="producers" >Willie Mitchell and Al Green</name>
+    <title type="all caps" >ENGINEER:</title>
+      <name="engineer" >Willie Mitchell</name>
+    <title type="all caps" >REMIX ENGINEER:</title>
+      <name="remix engineer" >Willie Mitchell</name>
+    <title type="all caps" >VOCAL BACKGROUNDS:</title>
+      <name="vocal backgrounds" >Rhodes, Chalmers and Rhodes</name>
+    <title type="all caps" >STRING ARRANGEMENTS:</title>
+      <name="string arrangements" >James Mitchell and Charles Chalmers</name>
+    <title type="all caps" >STRING SECTION:</title>
+      <name="string section" >The Memphis Strings</name>
+    <title type="all caps" >HORN SECTION:</title>
+      <name="horn section" >Wayne Jackson-Trumpet; Andrew Love-Tenor; Ed Logan-Tenor; James Mitchell-Baritone Sax; Jack Hole-Trombone;</name>
+    <title type="all caps" >RHYTHM SECTION:</title>
+      <name="rhythm section" >Howard Grimes, Al Jackson-Drums, Congas, & Bongo; Leroy Hodges-Bass; Charles Hodges-Organ and Piano; Teenie Hodges-Guitar; Archie Turner & Michael Allen-Piano</name>
+    <title type="all caps" >RECORDED AT:</title>
+      <name="recorded at" >Royal Recording Studios, Memphis TN</name>
+    <title type="all caps" >THIS DISC CONTAINS THE ORIGINAL QUADRAPHONIC MIXES FROM A 7.5 I.P.S. QUAD REEL SOURCE</title>
+</musicmetadata>
+<image>
+  <image type="back of album"/image>
+  //not sure how to describe that there are four versions of Al Green on the back. Is noting the color of the background necessary?//
+  <image type="record label" >Hi Records</image>  
+</image>
