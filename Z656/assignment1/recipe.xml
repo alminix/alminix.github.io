@@ -4,10 +4,10 @@
     <title="recipe name" >French Cranberry Chicken</title>
   </titlestatement>
   <ingredients>
-    <ingredients order="1">1 cup soup of success French créme dressing (prepared)</ingredient order>
-    <ingredients order="2">1 cup whole cranberry sauce</ingredient order>
-    <ingredients order="3">1 package dry onion soup mix</ingredient order>
-    <ingredients order="4">1 1/2 pounds of boneless chicken breast</ingredient order>
+    <ingredients order="1">1 cup soup of success French créme dressing (prepared)</ingredients order>
+    <ingredients order="2">1 cup whole cranberry sauce</ingredients order>
+    <ingredients order="3">1 package dry onion soup mix</ingredients order>
+    <ingredients order="4">1 1/2 pounds of boneless chicken breast</ingredients order>
   </ingredients>
   <directions>
     <step order="1">Place chicken in a 9X13 dish.</step order>
