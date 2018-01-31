@@ -4,15 +4,15 @@
     <title="recipe name" >French Cranberry Chicken</title>
   </titlestatement>
   <ingredients>
-    <ingredients order="1">1 cup soup of success French créme dressing (prepared)</ingredients order>
-    <ingredients order="2">1 cup whole cranberry sauce</ingredients order>
-    <ingredients order="3">1 package dry onion soup mix</ingredients order>
-    <ingredients order="4">1 1/2 pounds of boneless chicken breast</ingredients order>
+    <ingredient order="1">1 cup soup of success French créme dressing (prepared)</ingredient>
+    <ingredient order="2">1 cup whole cranberry sauce</ingredient>
+    <ingredient order="3">1 package dry onion soup mix</ingredient>
+    <ingredient order="4">1 1/2 pounds of boneless chicken breast</ingredient>
   </ingredients>
   <directions>
-    <step order="1">Place chicken in a 9X13 dish.</step order>
-    <step order="2">Mix dressing, cranberry sauce, and soup mix and pour over chicken.</step order>
-    <step order="3">Bake at 350 degrees for 45 minutes.</step order>
-    <step order="4">Serve over rice and enjoy.</step order>
+    <step order="1">Place chicken in a 9X13 dish.</step>
+    <step order="2">Mix dressing, cranberry sauce, and soup mix and pour over chicken.</step>
+    <step order="3">Bake at 350 degrees for 45 minutes.</step>
+    <step order="4">Serve over rice and enjoy.</step>
   </directions>
 </recipe>
