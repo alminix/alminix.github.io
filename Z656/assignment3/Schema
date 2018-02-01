@@ -1,4 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ELEMENT RECIPE (NAME+)>
-<!ELEMENT NAME (TYPE, TEXT)>
-<!ELEMENT TYPE (#PCDATA)>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"> 
+
+
+<xs:element name="book">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element ref="titlestatement"/>
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="main" minOccurs="1" maxOccurs="unbounded">
+                        <xs:element name="alternative" minOccurs="0" maxOccurs="unbounded">
+            <xs:element ref="content">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element ref="header"/>
+                        <xs:element ref="chapter"/>
+                        <xs:element ref="paragraph" type="xs:string"/> 
+                    </xs:sequence>
+                </xs:complexType>
+               </xs:element>
+                        </xs:element>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:complexType>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+
+</xs:schema>
