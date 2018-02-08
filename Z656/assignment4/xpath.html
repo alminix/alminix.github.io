@@ -1,8 +1,8 @@
 1. Xpath: //div[@id="VAA4025-109-1-a16"]
 2. XPath: count(//list)
 3. //p[contains(.,"Copyright 2013 Trustees of Indiana University")]
-4. //publicationStmt/*[self::publisher or self::pubPlace]
-   //publicationStmt/publisher | //publicationStmt/pubPlace
+4. a. //publicationStmt/*[self::publisher or self::pubPlace]
+   b. //publicationStmt/publisher | //publicationStmt/pubPlace
 5. Answer: 36 Xpath: //p
 6. Answer: Indiana, Ohio, South Carolina, Kentucky, Arkansas, North Carolina Xpath: distinct-values(//region[@type="state"]/@reg)
 7. Answer:25 Xpath: distinct-values(//settlement[@type="city"])
